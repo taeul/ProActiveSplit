@@ -5,12 +5,10 @@
 
 <h1> Hello World! 👋 </h1>
 
-<br>
-
-<img src="IMG/my-image.png" width="150">
+<br />
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Leah](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Welcome to my GitHub profile! :octocat:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creator!)](https://git.io/typing-svg)
 
@@ -62,24 +60,3 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>   
 </div>
 
-## 👇 Check out my latest Medium blog
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0" alt="Recent Article 0"> 
-</a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/1" alt="Recent Article 1"> 
-</a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2" alt="Recent Article 2"> 
-</a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/3" alt="Recent Article 3"> 
-</a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/4" alt="Recent Article 4">
-</a>
-
-<br>
-
-## Metrics 📈
-![Metrics](/github-metrics.svg)
