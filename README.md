@@ -40,10 +40,7 @@
 <div align="center">
 
 ## Languages and Tools  
-<div align="center">  
-<img title="Hadoop" alt="Hadoop" src="assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-<img title="Spark" alt="Spark" src="assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
-<img title="AWS" alt="AWS" src="assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<div align="center">
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
